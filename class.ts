@@ -20,3 +20,4 @@ class Car {
 
 const toyota = new Car('toyota', 100000);
 const totalPrice: number = toyota.getTotalPrice(25);
+
